@@ -64,6 +64,7 @@
     <code>Microservices Architecture</code> • 
     <code>Message Queue Internals</code> • 
     <code>Database Optimization</code>
+    <code>Caching Strategies (Redis)</code>
   </p>
 
   <!-- 访问统计 -->
