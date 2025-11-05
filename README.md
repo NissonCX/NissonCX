@@ -1,3 +1,8 @@
+<!-- 
+  GitHub Profile README for NissonCX
+  建议在 GitHub 暗色主题下查看效果最佳
+-->
+
 <div align="center">
 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=500&color=6A99FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+NissonCX;CS+Student+@+Chongqing+University;Backend+Enthusiast+%F0%9F%92%BB" alt="Typing SVG" />
@@ -10,13 +15,13 @@
     <a href="https://github.com/NissonCX">
       <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/>
     </a>
-    <!-- 可选：添加你的博客、LinkedIn 或其他社交链接 -->
+    <!-- 可在此处添加博客、LinkedIn 等链接 -->
   </p>
 
   <h3>🛠️ 技术栈</h3>
   
   <p>
-    <img src="https://skillicons.dev/icons?i=java,cpp,spring,mysql,redis&perline=5" />
+    <img src="https://skillicons.dev/icons?i=java,cpp,spring,mysql,redis,kafka,rabbitmq,docker,git,nginx,maven,postman&perline=6" />
   </p>
 
   <h3>📊 GitHub 统计</h3>
