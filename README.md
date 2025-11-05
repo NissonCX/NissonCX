@@ -28,7 +28,7 @@
   <h3>🛠️ Tech Stack</h3>
   <p>
     <!-- Languages -->
-    <img src="https://skillicons.dev/icons?i=java,cplusplus,python&perline=6" alt="Languages" />
+    <img src="https://skillicons.dev/icons?i=java,python&perline=6" alt="Languages" />
     <!-- Frameworks -->
     <img src="https://skillicons.dev/icons?i=spring,mybatis&perline=6" alt="Frameworks" />
     <!-- Databases & Middleware -->
