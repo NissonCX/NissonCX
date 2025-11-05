@@ -8,7 +8,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=500&color=6A99FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+NissonCX;CS+Student+@+Chongqing+University;Backend+Enthusiast+%F0%9F%92%BB" alt="Typing SVG" />
 
   <p>
-    🎓 重庆大学计算机科学与技术专业在读 | 🔍 专注后端开发 | 💡 热爱探索系统设计与高性能服务
+    🎓 重庆大学计算机科学与技术专业在读 | 🔍 专注后端开发 | 💡 小菜犬在此
   </p>
 
   <!-- 社交链接 -->
