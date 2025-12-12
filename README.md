@@ -1,80 +1,80 @@
-<div align="center">
+# 👋 Hello, I'm NissonCX!
 
-  <!-- 动态打字标题 -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=500&color=6A99FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+NissonCX;CS+Student+%40+Chongqing+University;Building+Robust+Backend+Systems" alt="Typing SVG" />
+## 🎓 About Me
+I'm a passionate **Computer Science student** at **Chongqing University**. Currently diving deep into **Java Backend** and **Distributed Systems**, I'm always evolving and improving my skills.  
+When I'm not coding, I'm probably exploring new tech or enjoying a bit of football. ⚽
 
-  <p>
-    🎓 Computer Science @ Chongqing University<br>
-    🔧 Focused on <strong>Java Backend</strong> & <strong>Distributed Systems</strong> • 🐶 小菜犬，持续进化中
-  </p>
+## 🚀 Tech Stack
+I specialize in building robust systems and have hands-on experience with the following technologies:
 
-  <!-- 社交链接 -->
-  <p>
-    <a href="https://github.com/NissonCX">
-      <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-    </a>
-    <a href="mailto:nissoncx@gmail.com">
-      <img src="https://img.shields.io/badge/Email-nissoncx@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-    </a>
-    <a href="https://nissoncx.github.io">
-      <img src="https://img.shields.io/badge/Blog-GitHub%20Pages-000000?style=for-the-badge&logo=github&logoColor=white" alt="Blog"/>
-    </a>
-    <a href="https://blog.csdn.net/2301_82028135">
-      <img src="https://img.shields.io/badge/CSDN-Blog-009688?style=for-the-badge&logo=csdn&logoColor=white" alt="CSDN"/>
-    </a>
-    <a href="https://leetcode.cn/u/nissoncx/">
-      <img src="https://img.shields.io/badge/LeetCode-%20Solutions-FF9900?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
-    </a>
-  </p>
+### **Languages**  
+- ![Java](https://img.shields.io/badge/Java-F7DF1E?style=flat&logo=java&logoColor=white)
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
-  <!-- 技术栈 -->
-  <h3>🛠️ Tech Stack</h3>
-  <p>
-    <!-- Languages -->
-    <img src="https://skillicons.dev/icons?i=java,python&perline=6" alt="Languages" />
-    <!-- Frameworks -->
-    <img src="https://skillicons.dev/icons?i=spring,mybatis&perline=6" alt="Frameworks" />
-    <!-- Databases & Middleware -->
-    <img src="https://skillicons.dev/icons?i=mysql,redis,kafka,rabbitmq&perline=6" alt="DB & MQ" />
-    <!-- DevOps & Tools -->
-    <img src="https://skillicons.dev/icons?i=docker,git,nginx,maven,postman&perline=6" alt="Tools" />
-  </p>
+### **Frameworks**  
+- ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)
+- ![MyBatis](https://img.shields.io/badge/MyBatis-000000?style=flat&logo=mybatis&logoColor=white)
 
-  <!-- GitHub Stats -->
-  <h3>📊 GitHub Stats</h3>
-  <div>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NissonCX&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_border=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NissonCX&layout=compact&theme=radical&hide_border=true" />
-  </div>
+### **Databases & Tools**  
+- ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+- ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+- ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
+- ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)
 
-  <!-- 精选项目 -->
-  <h3>🌟 Featured Projects</h3>
-  <p>
-    <a href="https://github.com/NissonCX/dianping-backend-NissonCX">
-      <img src="https://img.shields.io/badge/Project-Blackhorse%20Dianping%20(Java%20Backend)-6A99FF?style=flat-square&logo=java" alt="Dianping Backend"/>
-    </a>
-    <a href="https://github.com/NissonCX/CQU-CS-Professional-Test">
-      <img src="https://img.shields.io/badge/Project-CQU%20CS%20Prof%20Test%20(Solutions)-569CD6?style=flat-square&logo=cplusplus" alt="CQU CS Test"/>
-    </a>
-    <a href="https://github.com/NissonCX/CQU-HarmonyOS-AppDev-Course-Exp">
-      <img src="https://img.shields.io/badge/Project-HarmonyOS%20Course%20Exp-FFB86C?style=flat-square&logo=harmonyos" alt="HarmonyOS Exp"/>
-    </a>
-  </p>
+### **DevOps & Tools**  
+- ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+- ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+- ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
+- ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apachemaven&logoColor=white)
 
-  <!-- 学习方向 -->
-  <h3>🧭 Currently Exploring</h3>
-  <p>
-    <code>Microservices Architecture</code> • 
-    <code>Message Queue Internals</code> • 
-    <code>Database Optimization</code> •
-    <code>Caching Strategies (Redis)</code> •
-    <code>Distributed Systems Scalability</code> 
-  </p>
+---
 
-  <!-- 访问统计 -->
-  <br>
-  <img src="https://komarev.com/ghpvc/?username=NissonCX&color=6A99FF&style=flat-square" alt="Profile views" />
+## 🌟 Featured Projects
 
-  <p><em>“Write less, run forever.”</em></p>
+### [Blackhorse Dianping (Java Backend)](https://github.com/NissonCX/dianping-backend-NissonCX)
+An end-to-end backend solution built with **Spring** and **MyBatis**.
 
-</div>
+### [CQU CS Professional Test Solutions](https://github.com/NissonCX/CQU-CS-Professional-Test)
+A repository of solutions for **CQU CS Professional Test**, tackling algorithmic challenges and complex problems.
+
+### [HarmonyOS Course Experience](https://github.com/NissonCX/CQU-HarmonyOS-AppDev-Course-Exp)
+Exploring **HarmonyOS** development, this repo includes hands-on experiments and projects from my coursework.
+
+---
+
+## 📊 GitHub Stats
+![NissonCX GitHub Stats](https://github-readme-stats.vercel.app/api?username=NissonCX&show_icons=true&theme=radical&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NissonCX&layout=compact&theme=radical&hide_border=true)
+
+---
+
+## 🔍 Currently Exploring
+- **Microservices Architecture**  
+- **Message Queue Internals**  
+- **Database Optimization**  
+- **Caching Strategies (Redis)**  
+- **Distributed Systems Scalability**  
+
+---
+
+## 🌐 Connect With Me
+- [GitHub](https://github.com/NissonCX)
+- [Blog](https://nissoncx.github.io)
+- [LeetCode](https://leetcode.cn/u/nissoncx/)
+- [CSDN](https://blog.csdn.net/2301_82028135)
+- [Email](mailto:nissoncx@gmail.com)
+
+---
+
+## 👀 Profile Stats
+![Profile Views](https://komarev.com/ghpvc/?username=NissonCX&color=6A99FF&style=flat-square)
+
+---
+
+## 💬 Quote  
+> *"Write less, run forever."*
+
+---
+
+I’m always open to learning, collaborating, and exploring new opportunities. Feel free to reach out!
