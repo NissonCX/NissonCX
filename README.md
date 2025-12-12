@@ -8,9 +8,9 @@
   </p>
 
   <p align="center">
-    <a href="https://nissoncx.github.io"><img src="https://img.shields.io/badge/Blog-Visit%20Me-2ea44f?style=for-the-badge&logo=wordpress" alt="Blog"></a>
-    <a href="https://leetcode.cn/u/nissoncx/"><img src="https://img.shields.io/badge/LeetCode-Solving-orange?style=for-the-badge&logo=leetcode" alt="LeetCode"></a>
-    <a href="https://www.linkedin.com/in/旭-曹-a35896397"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
+    <a href="https://nissoncx.github.io"><img src="https://img.shields.io/badge/Blog-Visit%20Me-2ea44f?style=for-the-badge&logo=wordpress&logoColor=white" alt="Blog"></a>
+    <a href="https://leetcode.cn/u/nissoncx/"><img src="https://img.shields.io/badge/LeetCode-Solving-orange?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"></a>
+    <a href="https://www.linkedin.com/in/旭-曹-a35896397"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   </p>
 
   <br/>
@@ -26,7 +26,7 @@
 
 我热衷于构建高效、可扩展的后端系统，目前专注于 **Java 生态** 与 **分布式架构** 的探索。我相信代码不仅是逻辑的堆砌，更是艺术的表达。
 
-- 🔭 我目前正在研究：**微服务架构 & 中间件源码**
+- 🔭 我目前正在研究：**微服务架构 & 中间件源码 & 大模型应用**
 - 🌱 我正在学习：**分布式系统一致性 & 云原生技术**
 - 💬 关于这些我们可以聊聊：**Java, Spring Boot, Architecture, Football ⚽**
 - ⚡ 座右铭：*"Write less, run forever."*
@@ -60,13 +60,21 @@
 
 <br/>
 
-### 📊 GitHub Stats
+### 📊 Data & Analytics
 
-数据不会说谎，这里是我的代码足迹。
+数据不会说谎，这里是我的代码足迹与算法修炼。
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NissonCX&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NissonCX&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="160" alt="languages graph" />
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://leetcode.cn/u/nissoncx/">
+    <img src="https://leetcode-stats-ivy.vercel.app/api?username=nissoncx&cn=true&theme=tokyonight&font=baloo" alt="LeetCode Stats" />
+  </a>
 </div>
 
 <br/>
