@@ -22,6 +22,9 @@
     <a href="https://blog.csdn.net/2301_82028135">
       <img src="https://img.shields.io/badge/CSDN-Blog-009688?style=for-the-badge&logo=csdn&logoColor=white" alt="CSDN"/>
     </a>
+    <a href="https://leetcode.cn/u/nissoncx/">
+      <img src="https://img.shields.io/badge/LeetCode-%20Solutions-FF9900?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
+    </a>
   </p>
 
   <!-- 技术栈 -->
@@ -63,8 +66,9 @@
   <p>
     <code>Microservices Architecture</code> • 
     <code>Message Queue Internals</code> • 
-    <code>Database Optimization</code>
-    <code>Caching Strategies (Redis)</code>
+    <code>Database Optimization</code> •
+    <code>Caching Strategies (Redis)</code> •
+    <code>Distributed Systems Scalability</code> 
   </p>
 
   <!-- 访问统计 -->
