@@ -1,44 +1,37 @@
-<!-- ==============================================
-     BRIDGES TERMINAL SYSTEM V2.0
-     USER: NissonCX (PORTER)
-     ============================================== -->
-
+<!-- Death Stranding Profile -->
 <p align="center">
-  <img src="https://death-stranding-profile.2144546224.workers.dev/api/header/NissonCX?hideAvatar=true" alt="Bridges Header" width="840" />
+  <img src="https://death-stranding-profile.2144546224.workers.dev/api/header/NissonCX?hideAvatar=true" alt="header" width="840" />
 </p>
 
-<!-- 结构装饰线 -->
 <p align="center">
   <img src="https://death-stranding-profile.2144546224.workers.dev/api/separator/NissonCX?style=strand" alt="separator" width="840" />
 </p>
 
-<!-- 档案卡片重塑版: PERSONNEL FILE -->
-<!-- 可以在 lines 参数里用 ;; 任意换行增加你的履历描述 -->
+<!-- 自定义个人技能履历模块 -->
 <p align="center">
-  <img src="https://death-stranding-profile.2144546224.workers.dev/api/text?title=PERSONNEL_FILE%20::%20NissonCX&lines=ID:%20NissonCX%20[PORTER_CLASS];;BASE%20OF%20OPERATIONS:%20CQU%20(CHONGQING);;CURRENT%20ASSIGNMENT:%20MICROSERVICES%20ARCH%20/%20LLM;;PRIMARY%20SKILLS:%20JAVA%20/%20SPRING%20BOOT%20/%20REDIS" alt="dossier_1" width="840" />
-</p>
-
-<!-- 数据报表模块 (并排双数据面板) -->
-<p align="center">
-  <img src="https://death-stranding-profile.2144546224.workers.dev/api/stats/NissonCX" alt="Delivery Report" width="495" />
-  <img src="https://death-stranding-profile.2144546224.workers.dev/api/languages/NissonCX" alt="Cargo Manifest" width="340" />
+  <img src="https://death-stranding-profile.2144546224.workers.dev/api/text?title=PERSONNEL_FILE%20::%20NISSONCX&lines=MISSION%20FOCUS:%20FULL-STACK%20%2F%20NODE.JS%20%2F%20CLOUDFLARE;;CURRENT%20LOCATION:%20BRIDGES%20HQ%20(EARTH);;EQUIPMENT%20AFFINITY:%20REACT%20%2F%20TYPESCRIPT%20%2F%20TAILWIND;;STATUS:%20KEEP%20ON%20KEEPING%20ON" alt="text" width="840" />
 </p>
 
 <p align="center">
   <img src="https://death-stranding-profile.2144546224.workers.dev/api/separator/NissonCX?style=chiral" alt="separator" width="840" />
 </p>
 
-<!-- 档案卡片重塑版: 行动准则 -->
+<!-- 统计数据与语言组合水平排列 -->
 <p align="center">
-  <img src="https://death-stranding-profile.2144546224.workers.dev/api/text?title=ACTIVE_DIRECTIVES&lines=OBJECTIVE:%20RECONNECTING%20ISOLATED%20NODE-SYSTEMS;;MOTTO:%20KEEP%20ON%20KEEPING%20ON.;;STATUS:%20OPEN%20TO%20NEW%20CONNECTIONS%20AND%20CONTRACTS." alt="dossier_2" width="840" />
+  <img src="https://death-stranding-profile.2144546224.workers.dev/api/stats/NissonCX" alt="stats" width="495" />
+  <img src="https://death-stranding-profile.2144546224.workers.dev/api/languages/NissonCX" alt="languages" width="340" />
 </p>
 
-<!-- 开罗尔网络贡献热力图 -->
 <p align="center">
-  <img src="https://death-stranding-profile.2144546224.workers.dev/api/heatmap/NissonCX" alt="Chiral Network Heatmap" width="840" />
+  <img src="https://death-stranding-profile.2144546224.workers.dev/api/separator/NissonCX?style=strand" alt="separator" width="840" />
 </p>
 
-<!-- 底部页脚签名 -->
+<!-- 节点热力图 -->
 <p align="center">
-  <img src="https://death-stranding-profile.2144546224.workers.dev/api/footer/NissonCX" alt="Bridges Footer" width="840" />
+  <img src="https://death-stranding-profile.2144546224.workers.dev/api/heatmap/NissonCX" alt="heatmap" width="840" />
+</p>
+
+<!-- 终端截断页脚 -->
+<p align="center">
+  <img src="https://death-stranding-profile.2144546224.workers.dev/api/footer/NissonCX" alt="footer" width="840" />
 </p>
