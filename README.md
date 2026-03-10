@@ -16,10 +16,13 @@
   <img src="https://death-stranding-profile.2144546224.workers.dev/api/separator/NissonCX?style=chiral" alt="separator" width="840" />
 </p>
 
-<!-- 统计数据与语言组合水平排列 -->
+<!-- 统计数据与语言组合垂直独立排列 (全宽) -->
 <p align="center">
-  <img src="https://death-stranding-profile.2144546224.workers.dev/api/stats/NissonCX" alt="stats" width="495" />
-  <img src="https://death-stranding-profile.2144546224.workers.dev/api/languages/NissonCX" alt="languages" width="340" />
+  <img src="https://death-stranding-profile.2144546224.workers.dev/api/stats/NissonCX" alt="stats" width="840" />
+</p>
+
+<p align="center">
+  <img src="https://death-stranding-profile.2144546224.workers.dev/api/languages/NissonCX" alt="languages" width="840" />
 </p>
 
 <p align="center">
