@@ -1,91 +1,76 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=2,12,20,30&text=NissonCX&fontSize=68&fontAlignY=38&animation=fadeIn&desc=Build%20with%20logic.%20Play%20with%20vision.&descAlignY=58" alt="NissonCX banner" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2600&pause=800&center=true&vCenter=true&width=980&lines=CS+Student+%40+Chongqing+University;Backend+Development+%2F+System+Design;Java+%7C+C%2B%2B+%7C+Spring+%7C+MySQL+%7C+Redis;Albiceleste+spirit+%7C+Blaugrana+palette+%7C+Messi+mode" alt="Typing intro" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=2,15,22,25,28&text=你好，我是%20NissonCX%20👋&fontSize=60&fontAlignY=40&animation=fadeIn&desc=一个热衷于技术细节的“全干”摸鱼王&descAlignY=65" alt="NissonCX Header" />
 
-<p align="center">
-  <img src="https://img.shields.io/badge/ROLE-Backend_Developer-0A66C2?style=for-the-badge&labelColor=111827" alt="Role badge" />
-  <img src="https://img.shields.io/badge/FOCUS-System_Design-A50044?style=for-the-badge&labelColor=111827" alt="Focus badge" />
-  <img src="https://img.shields.io/badge/STATUS-High_Performance_Services-75AADB?style=for-the-badge&labelColor=111827" alt="Status badge" />
-</p>
+### 💡 “保持热爱，折腾不止，把每一个技术细节发掘到极致！”
 
-## Player Profile
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" height="40" alt="Education" style="vertical-align: middle;" />&nbsp; **重庆大学 · CS 本科大三在读**
 
-我希望自己的代码像组织进攻一样清晰，像最后一脚处理一样干净。  
-现在主要专注后端开发、系统设计，以及高性能服务方向的持续学习和实践。
+<br/>
 
-```txt
-NAME        : Cao Xu
-TRACK       : CS Student @ Chongqing University
-FOCUS       : Backend Development / System Design
-STACK       : Java / C++ / Spring / MySQL / Redis
-CURRENT RUN : Exploring high-performance services
-STYLE       : Calm build, fast iterate, clean finish
-```
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="100" alt="Laptop GIF" />
+<br/>
 
-## Tactical Board
+[![Java](https://img.shields.io/badge/-Java%20后端开发-007396?style=for-the-badge&logo=java&logoColor=white)](#)
+[![Vibe Coding](https://img.shields.io/badge/-Vibe%20Coding-FF6F00?style=for-the-badge&logo=openai&logoColor=white)](#)
+[![Looking for Internship](https://img.shields.io/badge/Status-寻找暑期实习(求大厂带飞)-2563EB?style=for-the-badge)](#)
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Java-111827?style=for-the-badge&logo=openjdk&logoColor=F89820" alt="Java" />
-  <img src="https://img.shields.io/badge/C%2B%2B-111827?style=for-the-badge&logo=c%2B%2B&logoColor=00599C" alt="C++" />
-  <img src="https://img.shields.io/badge/Spring-111827?style=for-the-badge&logo=spring&logoColor=6DB33F" alt="Spring" />
-  <img src="https://img.shields.io/badge/MySQL-111827?style=for-the-badge&logo=mysql&logoColor=4479A1" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Redis-111827?style=for-the-badge&logo=redis&logoColor=DC382D" alt="Redis" />
-  <img src="https://img.shields.io/badge/Backend-0F172A?style=for-the-badge&logoColor=38BDF8" alt="Backend" />
-  <img src="https://img.shields.io/badge/System_Design-0F172A?style=for-the-badge&logoColor=FACC15" alt="System Design" />
-</p>
+</div>
 
-```txt
-CURRENT OBJECTIVES
+## 🧑‍💻 关于我
 
-- Build stronger backend fundamentals
-- Think more clearly about architecture and tradeoffs
-- Learn how high-concurrency services stay stable under pressure
-- Ship projects that are faster, cleaner, and easier to extend
-```
+你好！我是 **NissonCX**。作为一名**重庆大学大三本科生**，目前我正在**杭州趣链科技**担任 Java 后端开发。
+虽然以后端起步，但我是一个绝对的 **“全干”爱好者** —— 小到一行源码机制，大到整体架构，我喜欢把每一个技术细节都扒个底朝天！
 
-## Football DNA
+📣 **[高亮] 目前正在积极准备面试，努力寻找一份互联网大厂的暑期实习，如果贵团队缺一个能肝能卷的技术狂热分子，欢迎随时滴滴我！**
 
-<p align="center">
-  <img src="https://img.shields.io/badge/ARGENTINA-Albiceleste-75AADB?style=for-the-badge&labelColor=111827" alt="Argentina badge" />
-  <img src="https://img.shields.io/badge/BARCELONA-Blaugrana-A50044?style=for-the-badge&labelColor=111827" alt="Barcelona badge" />
-  <img src="https://img.shields.io/badge/MESSI-GOAT_Mode-0A66C2?style=for-the-badge&labelColor=111827" alt="Messi badge" />
-</p>
+<br/>
+
+## 🛠️ 我的技术栈与“折腾”日常
+
+比起写死板的 CRUD，我更喜欢寻找提升开发效率的黑科技：
+
+- ☕ **后端本职**：极度熟练掌握 **Java**、**Spring Boot** 以及微服务相关生态生态。
+- 🤖 **AI 协作 (Vibe Coding)**：不仅会用 AI，我还喜欢教 AI 怎么干活！
+  - 参与折腾过多个 **多智能体 (Multi-Agent)** 协作项目。
+  - 曾为 **OpenClaw** 和 **Claude Code** 编写过深度定制的 Skill（比如用于辅助 AI 直接全自动测试接口的懒人工具 🪄）。
+- 💡 **全栈追求**：从不把自我设限在某个圈子里。前后端、运维部署都可以卷。
+
+<br/>
+
+## 🌱 最近在忙什么？
 
 <table>
   <tr>
-    <td width="52%">
-      <pre lang="text">FORMATION   : 4-3-3
-NATION      : Argentina
-CLUB TONE   : Barcelona
-ICON        : Lionel Messi
-PLAY STYLE  : Control the rhythm. Break the line. Finish simple.</pre>
-  </td>
-    <td width="48%">
-      把足球元素放进 README，不是为了堆兴趣标签，而是因为这套审美和工程思维很像：<br/><br/>
-      节奏、空间、视野、决策，以及在关键时刻把事情处理到位。
+    <td width="50%">
+      <div align="center">
+        <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="100" alt="Learning GIF"/>
+        <br/>
+        <b>疯狂八股 & 面试准备</b><br/>
+        深扣底层原理，备战大厂暑期实习后端面！
+      </div>
+    </td>
+    <td width="50%">
+      <div align="center">
+        <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100" alt="Coding Cat"/>
+        <br/>
+        <b>拓宽边界</b><br/>
+        正计划向<b>客户端开发 (Client-side)</b> 进军，同时还在深挖 <b>AI Agent</b> 的潜力。
+      </div>
     </td>
   </tr>
 </table>
 
-## Match Data
+<br/>
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=NissonCX&show_icons=true&hide_border=true&bg_color=00000000&title_color=0A66C2&icon_color=A50044&text_color=4B5563&rank_icon=github" alt="GitHub stats" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=NissonCX&hide_border=true&background=FFFFFF00&ring=0A66C2&fire=A50044&currStreakLabel=0A66C2&sideLabels=4B5563&currStreakNum=111827&sideNums=111827&dates=6B7280" alt="GitHub streak" />
-</p>
+## 📬 找到我 / 交流探讨
 
-<p align="center">
-  <img width="56%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NissonCX&layout=compact&hide_border=true&bg_color=00000000&title_color=A50044&text_color=4B5563" alt="Top languages" />
-</p>
+探讨技术、学术交流，或是内推机会，随时欢迎通过下方邮箱轰炸我！
 
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=NissonCX&bg_color=00000000&color=0A66C2&line=A50044&point=75AADB&hide_border=true" alt="Activity graph" />
-</p>
+- 📧 Email: **[nissoncx@gmail.com](mailto:nissoncx@gmail.com)** 
 
-<p align="center">
-  <sub>Code with structure. Move with purpose. Finish with precision.</sub>
-</p>
+<div align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="180" alt="Contact Me GIF" />
+  <br/>
+  <i>保持好奇心，继续造轮子！</i>
+</div>
