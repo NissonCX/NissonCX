@@ -12,27 +12,27 @@
 <br/>
 
 [![Java](https://img.shields.io/badge/-Java%20后端开发-007396?style=for-the-badge&logo=java&logoColor=white)](#)
-[![Vibe Coding](https://img.shields.io/badge/-Vibe%20Coding-FF6F00?style=for-the-badge&logo=openai&logoColor=white)](#)
-[![Looking for Internship](https://img.shields.io/badge/Status-寻找暑期实习(求大厂带飞)-2563EB?style=for-the-badge)](#)
+[![Agent 开发](https://img.shields.io/badge/-Agent%20开发-FF6F00?style=for-the-badge&logo=openai&logoColor=white)](#)
 
 </div>
 
 ## 🧑‍💻 关于我
 
 你好！我是 **NissonCX**。作为一名**重庆大学大三本科生**，目前我正在**杭州趣链科技**担任 Java 后端开发。
-虽然以后端起步，但我是一个绝对的 **“全干”爱好者** —— 小到一行源码机制，大到整体架构，我喜欢把每一个技术细节都扒个底朝天！
+虽然以后端起步，但我是一个绝对的 **”全干”爱好者** —— 小到一行源码机制，大到整体架构，我喜欢把每一个技术细节都扒个底朝天！
 
-📣 **[高亮] 目前正在积极准备面试，努力寻找一份互联网大厂的暑期实习，如果贵团队缺一个能肝能卷的技术狂热分子，欢迎随时滴滴我！**
+🎯 **暑期将前往字节跳动（懂车帝）进行后端开发实习。**
 
 <br/>
 
-## 🛠️ 我的技术栈与“折腾”日常
+## 🛠️ 我的技术栈与”折腾”日常
 
 比起写死板的 CRUD，我更喜欢寻找提升开发效率的黑科技：
 
-- ☕ **后端本职**：极度熟练掌握 **Java**、**Spring Boot** 以及微服务相关生态生态。
-- 🤖 **AI 协作 (Vibe Coding)**：不仅会用 AI，我还喜欢教 AI 怎么干活！
-  - 参与折腾过多个 **多智能体 (Multi-Agent)** 协作项目。
+- ☕ **后端本职**：熟练掌握 **Java**、**Spring Boot** 及相关生态。
+- 🤖 **Agent 开发 (我的热爱方向)**：这是我最想深入钻研的领域！
+  - 正在系统学习 **TypeScript** 和 **Node.js**，为 Agent 开发打下坚实基础。
+  - 参与过多个 **多智能体 (Multi-Agent)** 协作项目的折腾。
   - 曾为 **OpenClaw** 和 **Claude Code** 编写过深度定制的 Skill（比如用于辅助 AI 直接全自动测试接口的懒人工具 🪄）。
 - 💡 **全栈追求**：从不把自我设限在某个圈子里。前后端、运维部署都可以卷。
 
@@ -46,20 +46,30 @@
       <div align="center">
         <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="100" alt="Learning GIF"/>
         <br/>
-        <b>疯狂八股 & 面试准备</b><br/>
-        深扣底层原理，备战大厂暑期实习后端面！
+        <b>TypeScript & Node.js</b><br/>
+        正在系统学习 TS 和 Node.js，为 Agent 开发做准备！
       </div>
     </td>
     <td width="50%">
       <div align="center">
         <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100" alt="Coding Cat"/>
         <br/>
-        <b>拓宽边界</b><br/>
-        正计划向<b>客户端开发 (Client-side)</b> 进军，同时还在深挖 <b>AI Agent</b> 的潜力。
+        <b>Agent 开发探索</b><br/>
+        深挖 <b>AI Agent</b> 的潜力，探索多智能体协作的新可能。
       </div>
     </td>
   </tr>
 </table>
+
+<br/>
+
+## ⚽ 兴趣爱好
+
+除了代码，我也热爱生活中的其他美好事物：
+
+- 🏟️ **足球迷**：铁杆巴塞罗那球迷，最喜欢的球员是梅西。Visca Barça！
+- 🏆 **2025 重大杯**：作为主力中锋随计算机学院队闯入四强。感谢每一位队友，是你们的支持与信任给了我前进的力量！
+- 💬 **LinuxDo 社区**：[LinuxDo](https://linux.do) 社区成员，热爱这个充满活力的技术社区。
 
 <br/>
 
@@ -68,6 +78,12 @@
 探讨技术、学术交流，或是内推机会，随时欢迎通过下方邮箱轰炸我！
 
 - 📧 Email: **[nissoncx@gmail.com](mailto:nissoncx@gmail.com)** 
+
+<br/>
+
+## 🙏 致谢
+
+感谢 **NULL** 友们一路相伴！
 
 <div align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="180" alt="Contact Me GIF" />
