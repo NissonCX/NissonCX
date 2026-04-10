@@ -13,6 +13,7 @@
 
 [![Java](https://img.shields.io/badge/-Java%20后端开发-007396?style=for-the-badge&logo=java&logoColor=white)](#)
 [![Agent 开发](https://img.shields.io/badge/-Agent%20开发-FF6F00?style=for-the-badge&logo=openai&logoColor=white)](#)
+[![字节跳动](https://img.shields.io/badge/-字节跳动%20(懂车帝)-000000?style=for-the-badge&logo=bytedance&logoColor=white)](#)
 
 </div>
 
@@ -21,7 +22,13 @@
 你好！我是 **NissonCX**，一名**重庆大学大三本科生**。曾在**杭州趣链科技**担任 Java 后端开发实习。
 虽然以后端起步，但我是一个绝对的 **”全干”爱好者** —— 小到一行源码机制，大到整体架构，我喜欢把每一个技术细节都扒个底朝天！
 
-🎯 **即将入职字节跳动（懂车帝）进行后端开发实习。**
+<br/>
+
+<div align=”center”>
+
+🎯 **即将入职字节跳动（懂车帝）后端开发实习**
+
+</div>
 
 <br/>
 
